@@ -1,5 +1,5 @@
-📊 Sales Analysis Project
-Project Overview
+#📊 Sales Analysis Project
+##Project Overview
 
 This project analyzes sales data to evaluate business performance, identify sales trends, and understand customer and product behavior. The goal is to support data-driven decision-making using clear insights and visualizations.
 
@@ -15,15 +15,12 @@ Whether sales targets are being met
 
 This analysis helps management improve sales strategy and forecasting.
 
-Tools Used
+#Tools Used
 
-Power BI
+##Power BI
+##Excel
 
-Excel
-
-(Optional) SQL / Python for data preparation
-
-Dataset Description
+#Dataset Description
 
 The dataset contains sales transaction data including:
 
