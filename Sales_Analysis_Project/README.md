@@ -14,8 +14,7 @@ This analysis helps management improve sales strategy and forecasting.
 ## Tools Used
 - Power BI
 - Excel
-- (Optional) SQL / Python for data preparation
-
+  
 ## Dataset Description
 The dataset contains sales transaction data including:
 - Date (day, month, week)
@@ -35,4 +34,4 @@ The dataset contains sales transaction data including:
 - Designed an interactive Power BI dashboard for reporting
 
 ## Key Insights
-- A small number of products contribute the highest sh
+- A small number of products contribute the highest
