@@ -10,6 +10,6 @@ Data Analytics projects using Python, SQL, Excel, Power BI
 - [Shipping Analysis](./Shipping_Analysis)
 - [Financial Reporting Analysis Power BI](./Financial_Reporting_Analysis_PowerBI)
 - [Netflix Content and Usage Analysis](./Netflix_Content_and_Usage_Analysis)
--  [Executive Summary – Financial Report](./ExecutiveSummary-FinancialReport)
+-  [Executive Summary – Financial Report](./Executive_Summary_Financial_Report)
 
 
