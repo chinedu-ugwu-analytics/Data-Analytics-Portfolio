@@ -7,4 +7,6 @@ Data Analytics projects using Python, SQL, Excel, Power BI
 - [Disease Outbreak Analysis in Nigeria](./Disease_Outbreak_Analysis_Nigeria)
 - [Sales Analysis Project](./Sales_Analysis_Project)
 - [Blinkit Sales and Financial Analysis](./Blinkit_Sales_and_Financial_Analysis)
-- [Shipping Analysis](./Shipping_Analysis)  
+- [Shipping Analysis](./Shipping_Analysis)
+- [Financial Reporting Analysis Power BI](./Financial_Reporting_Analysis_PowerBI)
+
